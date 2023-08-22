@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-fastapi",
+  "name": "nextjs-fastapi-jotai-template",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -18,11 +18,17 @@
     "concurrently": "^8.0.1",
     "eslint": "8.41.0",
     "eslint-config-next": "13.4.4",
+    "jotai": "^2.3.1",
     "next": "13.4.4",
     "postcss": "8.4.23",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "tailwindcss": "3.3.2",
     "typescript": "5.0.4"
-  }
+  },
+  "description": "<p align=\"center\">   <a href=\"https://nextjs-fastapi-starter.vercel.app/\">     <img src=\"https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png\" height=\"96\">     <h3 align=\"center\">Next.js FastAPI Starter</h3>   </a> </p>",
+  "main": "next.config.js",
+  "devDependencies": {},
+  "author": "umar",
+  "license": "MIT"
 }
